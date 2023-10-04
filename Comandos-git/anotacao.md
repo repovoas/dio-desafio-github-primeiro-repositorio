@@ -1,18 +1,14 @@
 # Aqui vou estar colocando comando uteis do Git!
 
-**git config:** Comando destinado á abrir as configurações do git.
-
-**git clone:** Irá clonar o repositório selecionado.
-
-**git init:** Cria um repositório Git vazio ou reinicialize um existente.
-
-**git add:** Adiciona o conteúdo do arquivo ao índice.
-
-**git status:** Mostrar o status da árvore de trabalho.
-
-**git commit -m "":** Registrar alterações no repositório.
-
-**git push origin main:** Envia todos comitis locais para a nuvem.
+|    Tipos de git    |                          Descrição                              |
+| ------------------ | --------------------------------------------------------------- |
+| `config`           | Comando destinado á abrir as configurações do git.              |
+| `clone`            | Irá clonar o repositório selecionado.                           |
+| `init`             | Cria um repositório Git vazio ou reinicialize um existente.     |
+| `add`              | Adiciona o conteúdo do arquivo ao índice.                       |
+| `status`           | Mostrar o status da árvore de trabalho.                         |
+| `commit -m`        | Registrar alterações no repositório.                            |
+| `push origin main` | Envia todos comitis locais para a nuvem.                        |
 
 ### Link do repositório
 
